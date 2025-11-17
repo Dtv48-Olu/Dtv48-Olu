@@ -1,11 +1,15 @@
 ### Hi there 👋
 
+* Welcome to my github page, in which you will see alot of my personal projects or Desktop Utility software that I find missing.
 
-- 🔭 I’m currently working on a Physics Engine project
-- 🌱 I’m currently learning Cybersecurity
-- 🔥 I’m looking to collaborate on user facing applications!
-- 🤔 I’m looking for help with proper syntax
-- 💬 Ask me about any of my projects
-- 📫 How to reach me: odufowokantoye@outlook or olutoye.odufowokan.street111@passmail.net
-- ⚡ Fun fact: I like Pokemon!!
-  
+Current Things I'm thining of working on:
+  -  Physics Engine
+  -  Raspberry PI Projects
+  -  Game Dev
+  -  Fullstack Web Development
+  -  Desktop Linux Applications
+  -  Cybersecurity
+
+- 💬 Feel free to ask me about about any of my projects, the best way to learn is to explain what I'm building and how it dose it.
+
+Contacting: You can contact me odufowokantoye@outlook or olutoye.odufowokan.street111@passmail.net, please don't message Dtv48@proton.me as your message might get deleted by me.  
